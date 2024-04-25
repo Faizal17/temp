@@ -1,4 +1,4 @@
-This is develop readme file. Below are the feature list
+This is release/2024 readme file. Below are the feature list
 
 Feature A - develop
 Feature B - develop
